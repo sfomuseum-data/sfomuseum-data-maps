@@ -34,14 +34,15 @@
     "wof:geomhash": "59d876af9a2eafacd4c453e92718481c",
     "wof:hierarchy": [
       {
-        "custom_id": 1360391321
+        "map_id": 1360391321
       }
     ],
     "wof:id": 1360391321,
-    "wof:lastmodified": 1619637073,
+    "wof:lastmodified": 1619637133,
     "wof:name": "SFO (1943)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
+    "wof:placetype_alt": "map",
     "wof:repo": "sfomuseum-data-maps",
     "wof:superseded_by": [],
     "wof:supersedes": [],
