@@ -22,7 +22,7 @@
     "sfomuseum:id":-1,
     "sfomuseum:placetype":"map",
     "sfomuseum:uri":"2020",
-    "src:geom":"sfomuseum",
+    "src:geom":"sfogis",
     "wof:belongsto":[
         1729792387,
         102527513,
