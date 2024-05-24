@@ -8,7 +8,7 @@
     "date:inception_upper": "2016-12-31",
     "edtf:cessation": "2016",
     "edtf:inception": "2016",
-    "geom:area": 0.0017591799442601538,
+    "geom:area": 0.001759179944260154,
     "geom:area_square_m": 17275869.915385,
     "geom:bbox": "-122.406521,37.600997,-122.346056,37.641953",
     "geom:latitude": 37.62056890541303,
@@ -32,15 +32,18 @@
     "wof:geomhash": "0a19e3767a62f0e17d66db76c052b764",
     "wof:hierarchy": [
       {
+        "custom_id": 1477881755,
         "map_id": 1477881755
       }
     ],
     "wof:id": 1477881755,
-    "wof:lastmodified": 1619637133,
+    "wof:lastmodified": 1716594274,
     "wof:name": "SFO (2016)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "map",
+    "wof:placetype_alt": [
+      "map"
+    ],
     "wof:repo": "sfomuseum-data-maps",
     "wof:superseded_by": [],
     "wof:supersedes": [],

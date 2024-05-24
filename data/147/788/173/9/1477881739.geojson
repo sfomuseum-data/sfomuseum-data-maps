@@ -8,7 +8,7 @@
     "date:inception_upper": "1937-12-31",
     "edtf:cessation": "1937",
     "edtf:inception": "1937",
-    "geom:area": 0.001208139639412612,
+    "geom:area": 0.0012081396394126118,
     "geom:area_square_m": 11835790.08832,
     "geom:bbox": "-122.403468,37.579014,-122.347761,37.622658",
     "geom:latitude": 37.60084421867197,
@@ -31,15 +31,18 @@
     "wof:geomhash": "2cb0733c0938c7e2508a163b75c61647",
     "wof:hierarchy": [
       {
+        "custom_id": 1477881739,
         "map_id": 1477881739
       }
     ],
     "wof:id": 1477881739,
-    "wof:lastmodified": 1619637133,
+    "wof:lastmodified": 1716594274,
     "wof:name": "SFO (1937)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "map",
+    "wof:placetype_alt": [
+      "map"
+    ],
     "wof:repo": "sfomuseum-data-maps",
     "wof:superseded_by": [],
     "wof:supersedes": [],
