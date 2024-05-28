@@ -32,8 +32,7 @@
       85922583,
       554784711,
       85688637,
-      102085387,
-      1746160269
+      102085387
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -46,7 +45,6 @@
     "wof:geomhash": "e268a8d2db800956f4b43666daf48a9c",
     "wof:hierarchy": [
       {
-        "[\"map\"]_id": 1746160269,
         "building_id": 1477855605,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -59,7 +57,6 @@
         "region_id": 85688637
       },
       {
-        "[\"map\"]_id": 1746160269,
         "building_id": 1477855605,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -71,7 +68,7 @@
       }
     ],
     "wof:id": 1880585401,
-    "wof:lastmodified": 1716594274,
+    "wof:lastmodified": 1716930006,
     "wof:name": "SFO (193X)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",

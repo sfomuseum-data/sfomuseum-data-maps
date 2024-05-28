@@ -44,7 +44,6 @@
     "wof:geomhash": "50bd864888b9f342a9ae4a64cb06e974",
     "wof:hierarchy": [
       {
-        "[\"map\"]_id": 1746124347,
         "building_id": 1729792387,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -57,7 +56,6 @@
         "region_id": 85688637
       },
       {
-        "[\"map\"]_id": 1746124347,
         "building_id": 1729792387,
         "campus_id": 102527513,
         "continent_id": 102191575,
@@ -69,7 +67,7 @@
       }
     ],
     "wof:id": 1746124347,
-    "wof:lastmodified": 1716594274,
+    "wof:lastmodified": 1716930006,
     "wof:name": "SFO (2020)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
