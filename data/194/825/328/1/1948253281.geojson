@@ -1,0 +1,303 @@
+{
+  "id": 1948253281,
+  "type": "Feature",
+  "properties": {
+    "allmaps:created": "2025-03-04T20:36:58.187Z",
+    "allmaps:gcps": [
+      {
+        "geo": [
+          -122.4040466,
+          37.6611757
+        ],
+        "id": "0be096daa76a2d8c",
+        "index": 13.996701443205012,
+        "resource": [
+          2527,
+          941
+        ]
+      },
+      {
+        "geo": [
+          -122.4101735,
+          37.6551786
+        ],
+        "id": "2678452822b53445",
+        "index": 7.424060009162767,
+        "resource": [
+          2165,
+          1403
+        ]
+      },
+      {
+        "geo": [
+          -122.4301474,
+          37.6596078
+        ],
+        "id": "4d9320f0905bb6a6",
+        "index": 9.294186668268697,
+        "resource": [
+          952,
+          1069
+        ]
+      },
+      {
+        "geo": [
+          -122.4131416,
+          37.6422769
+        ],
+        "id": "4efbf575983b8e46",
+        "index": 5.7164430463968525,
+        "resource": [
+          1980,
+          2385
+        ]
+      },
+      {
+        "geo": [
+          -122.4057132,
+          37.6605138
+        ],
+        "id": "729ad8b0e5a7f3e9",
+        "index": 12.512904834555792,
+        "resource": [
+          2436,
+          995
+        ]
+      },
+      {
+        "geo": [
+          -122.4078663,
+          37.6616659
+        ],
+        "id": "81bc18ddc243c03c",
+        "index": 11.211894431447258,
+        "resource": [
+          2303,
+          908
+        ]
+      },
+      {
+        "geo": [
+          -122.4054797,
+          37.6309164
+        ],
+        "id": "917b6bc0a0004c0a",
+        "index": 2.9497647938204565,
+        "resource": [
+          2447,
+          3252
+        ]
+      },
+      {
+        "geo": [
+          -122.437233,
+          37.6600575
+        ],
+        "id": "91a26550efa37db0",
+        "index": 10.400404063555396,
+        "resource": [
+          525,
+          1033
+        ]
+      },
+      {
+        "geo": [
+          -122.4148759,
+          37.6338562
+        ],
+        "id": "9e70ab6bb03f4227",
+        "index": 1.0297307307093586,
+        "resource": [
+          1878,
+          3028
+        ]
+      },
+      {
+        "geo": [
+          -122.4042185,
+          37.6650113
+        ],
+        "id": "b2e1b853b9833962",
+        "index": 14.887320066049611,
+        "resource": [
+          2525,
+          654
+        ]
+      },
+      {
+        "geo": [
+          -122.4159534,
+          37.6290826
+        ],
+        "id": "c2d71159c1154d2e",
+        "index": 0.6819453644202487,
+        "resource": [
+          1815,
+          3391
+        ]
+      },
+      {
+        "geo": [
+          -122.4308552,
+          37.6576512
+        ],
+        "id": "c39c1a7a6bb072cb",
+        "index": 8.344981127776757,
+        "resource": [
+          912,
+          1219
+        ]
+      },
+      {
+        "geo": [
+          -122.4104261,
+          37.6326725
+        ],
+        "id": "d1843dd66dee5c1b",
+        "index": 3.452774094904533,
+        "resource": [
+          2149,
+          3116
+        ]
+      },
+      {
+        "geo": [
+          -122.4116539,
+          37.6411528
+        ],
+        "id": "efc226094e3fb729",
+        "index": 4.798945778572119,
+        "resource": [
+          2080,
+          2468
+        ]
+      },
+      {
+        "geo": [
+          -122.4108076,
+          37.6531868
+        ],
+        "id": "f1b7e1227e62cb65",
+        "index": 6.020411794376494,
+        "resource": [
+          2125,
+          1550
+        ]
+      },
+      {
+        "geo": [
+          -122.3923935,
+          37.6517903
+        ],
+        "id": "8d3906342d3a6a97",
+        "index": 15.44968890423322,
+        "resource": [
+          3239,
+          1655
+        ]
+      }
+    ],
+    "allmaps:id": "https://annotations.allmaps.org/maps/a0c0c652e49f4596",
+    "allmaps:meta": {
+      "area": 36679794.94,
+      "id": "https://annotations.allmaps.org/maps/a0c0c652e49f4596",
+      "image": {
+        "canvases": [],
+        "id": "https://annotations.allmaps.org/images/ced8faec8c108002",
+        "version": "https://annotations.allmaps.org/images/ced8faec8c108002@ab388137aefcd2f3"
+      },
+      "scale": 0.68619,
+      "version": "https://annotations.allmaps.org/maps/a0c0c652e49f4596@cbfe5733d2892e61"
+    },
+    "allmaps:modified": "2025-03-04T20:36:58.187Z",
+    "allmaps:resource": {
+      "height": 3656,
+      "id": "https://static.sfomuseum.org/media/152/781/830/9/tiles",
+      "type": "ImageService2",
+      "uri": "https://static.sfomuseum.org/media/152/781/830/9/tiles",
+      "width": 4724
+    },
+    "allmaps:resourceMask": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        3656
+      ],
+      [
+        4724,
+        3656
+      ],
+      [
+        4724,
+        0
+      ]
+    ],
+    "allmaps:transformation": {
+      "options": {
+        "order": 1
+      },
+      "type": "polynomial"
+    },
+    "allmaps:type": "GeoreferencedMap",
+    "date:cessation_lower": "1920-01-01",
+    "date:cessation_upper": "1920-12-31",
+    "date:inception_lower": "1920-01-01",
+    "date:inception_upper": "1920-12-31",
+    "edtf:cessation": "1920",
+    "edtf:inception": "1920",
+    "geom:area": 0.0037448550687425725,
+    "geom:bbox": "-122.445931,37.625483,-122.367851,37.673665",
+    "geom:latitude": 37.649573681499994,
+    "geom:longitude": -122.406890923,
+    "millsfield:id": 1948253281,
+    "mz:is_current": -1,
+    "mz:max_zoom": 16,
+    "mz:min_zoom": 12,
+    "sfomuseum:placetype": "map",
+    "sfomuseum:uri": "1920",
+    "src:geom": "sfomuseum",
+    "wof:belongsto": [
+      102191575,
+      85633793,
+      102085387,
+      85922427,
+      85688637
+    ],
+    "wof:concordances": {},
+    "wof:country": "US",
+    "wof:created": 1741639620,
+    "wof:geomhash": "0a6c8a9ef2baf3776da41ffa11418722",
+    "wof:hierarchy": [
+      {
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1948253281,
+        "locality_id": 85922427,
+        "map_id": 1948253281,
+        "region_id": 85688637
+      }
+    ],
+    "wof:id": 1948253281,
+    "wof:lastmodified": 1741640036,
+    "wof:name": "South San Francisco (1920)",
+    "wof:parent_id": 85922427,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": [
+      "map"
+    ],
+    "wof:repo": "sfomuseum-data-maps",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.445931313,
+    37.625482745,
+    -122.367850533,
+    37.673664618
+  ],
+  "geometry": {"coordinates":[[[-122.445896512,37.673664618],[-122.445931313,37.625682029],[-122.367885334,37.625482745],[-122.367850533,37.673465334],[-122.445896512,37.673664618]]],"type":"Polygon"}
+}
