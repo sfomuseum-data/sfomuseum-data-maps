@@ -403,20 +403,45 @@
     "sfomuseum:placetype": "map",
     "sfomuseum:uri": 1936,
     "src:geom": "sfomuseum",
-    "wof:belongsto": [],
+    "wof:belongsto": [
+      1360695655,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      554784711,
+      85688637,
+      102085387
+    ],
     "wof:country": "US",
     "wof:created": 1741726433,
     "wof:geomhash": "bf2bb4e8192251845cc17f88cef0b738",
     "wof:hierarchy": [
       {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
         "custom_id": 1963990181,
-        "map_id": 1963990181
+        "locality_id": 85922583,
+        "map_id": 1963990181,
+        "postalcode_id": 554784711,
+        "region_id": 85688637
+      },
+      {
+        "campus_id": 1360695655,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102085387,
+        "custom_id": 1963990181,
+        "map_id": 1963990181,
+        "region_id": 85688637
       }
     ],
     "wof:id": 1963990181,
-    "wof:lastmodified": 1741727150,
-    "wof:name": "Mills Field (1936)",
-    "wof:parent_id": -1,
+    "wof:lastmodified": 1741729077,
+    "wof:name": "San Francisco Airport (1936)",
+    "wof:parent_id": 1360695655,
     "wof:placetype": "custom",
     "wof:placetype_alt": [
       "map"
