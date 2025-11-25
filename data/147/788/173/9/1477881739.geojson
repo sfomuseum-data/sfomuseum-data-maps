@@ -7,6 +7,7 @@
     "date:inception_lower": "1937-01-01",
     "date:inception_upper": "1937-12-31",
     "edtf:cessation": "1937",
+    "edtf:deprecated": "2025-11-24",
     "edtf:inception": "1937",
     "geom:area": 0.0012081396394126118,
     "geom:area_square_m": 11835790.08832,
@@ -15,7 +16,7 @@
     "geom:longitude": -122.37560728050903,
     "iso:country": "US",
     "mz:hierarchy_label": 1,
-    "mz:is_current": -1,
+    "mz:is_current": 0,
     "mz:max_zoom": 17,
     "mz:min_zoom": 12,
     "sfomuseum:placetype": "map",
@@ -36,7 +37,7 @@
       }
     ],
     "wof:id": 1477881739,
-    "wof:lastmodified": 1716594274,
+    "wof:lastmodified": 1764028154,
     "wof:name": "SFO (1937)",
     "wof:parent_id": -4,
     "wof:placetype": "custom",
@@ -54,5 +55,5 @@
     -122.34776136272892,
     37.62265780779989
   ],
-  "geometry": {"coordinates":[[[-122.37827214568239,37.57901355560402],[-122.40346814892789,37.59946508964332],[-122.37290548874233,37.62265780779989],[-122.34776136272892,37.60226045130541],[-122.37827214568239,37.57901355560402]]],"type":"Polygon"}
+  "geometry": {"type":"Polygon","coordinates":[[[-122.378272,37.579014],[-122.403468,37.599465],[-122.372905,37.622658],[-122.347761,37.60226],[-122.378272,37.579014]]]}
 }
